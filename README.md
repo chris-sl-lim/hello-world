@@ -1,4 +1,6 @@
 # hello-world
 start up tutorial
 
-learning the difference between branches and masters
+deletd the original text
+
+let's try again
